@@ -9,7 +9,7 @@
    "engines": {
     "node": "8.9.3"
   },
-  "start": "nodemon index.js",
+  "start": "node index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Avdhutk/KrishnaAgro.git"
