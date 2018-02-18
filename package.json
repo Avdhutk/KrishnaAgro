@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "engines": {
+    "node": "8.9.3"
+  },
   "start": "nodemon index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Avdhutk/KrishnaAgro.git"
+  },
   "author": "Avdhut Kadam",
   "license": "ISC",
   "dependencies": {
