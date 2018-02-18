@@ -1,0 +1,18 @@
+{
+  "name": "krishna_agro",
+  "version": "1.0.0",
+  "description": "Krishna Agro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "nodemon index.js",
+  "author": "Avdhut Kadam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "nodemailer": "^4.4.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^1.15.0"
+  }
+}
